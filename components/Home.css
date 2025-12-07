@@ -1,0 +1,61 @@
+.home-bg {
+  min-height: calc(100vh - 120px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-card {
+  max-width: 1040px;
+  width: 100%;
+  padding: 48px 64px 64px;
+  border-radius: 36px;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 24px 60px rgba(148, 27, 135, 0.18);
+  color: #425b75;
+}
+
+.home-card-header h2 {
+  font-size: 2.8rem;   
+  margin: 0 0 18px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #552a66;
+}
+
+.home-card-header p {
+  font-size: 1.6rem;
+  line-height: 1.7;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.home-card-body h3 {
+  font-size: 1.4rem;
+  margin-top: 32px;
+  margin-bottom: 8px;
+  color: #461858;
+  font-family: Arial, Helvetica, sans-serif;}
+
+.home-card-button {
+  margin-top: 24px;
+  padding: 14px 36px;
+  font-size: 1rem;
+  border-radius: 999px;
+  border: none;
+  background: linear-gradient(135deg, #b0268d, #7c2d9c);
+  color: #f9fafb;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.home-card-button:hover {
+  background: linear-gradient(135deg, #ec4899, #7c2d9c);
+  text-align: center;
+}
+
+.home-card-body p {
+  font-size: 1.3rem;
+  line-height: 1.8;
+}

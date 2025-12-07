@@ -1,0 +1,52 @@
+.about-page {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 2fr);
+  gap: 40px;
+  padding: 32px 64px 48px;
+  align-items: flex-start;
+}
+
+.about-photo-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.about-photo {
+  width: 100%;
+  max-width: 900px;
+  height: 800px;
+  border-radius: 28px;
+  object-fit: cover;
+  box-shadow: 0 22px 55px rgba(15, 23, 42, 0.3);
+}
+
+.about-text h2 {
+  font-size: 2.7rem;
+  margin-bottom: 6px;
+}
+
+.about-text h3 {
+  font-size: 1.6rem;
+  margin-bottom: 18px;
+  color: #7c2d9c;
+}
+
+.about-text p {
+  font-size: 1.5rem;
+  line-height: 1.8;
+  margin-bottom: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.about-resume {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 10px 28px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #b0268d, #7c2d9c);
+  color: #f9fafb;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
