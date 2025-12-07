@@ -34,7 +34,7 @@ export default function Contact() {
           <h2>Let&apos;s get in touch</h2>
           <p>City: Toronto, ON , CA</p>
           <p>Email: ana.cast@example.com</p>
-          <p>LinkedIn: linkedin.com/in/anaaCastro</p>
+          <p>LinkedIn: linkedin.com/in/anaCastrot</p>
         </aside>
 
         <form className="contact-form" onSubmit={handleSubmit}>
