@@ -24,7 +24,7 @@ const services = [
     img: '/serv3.png',
     alt: 'Database and system design',
     description:
-      'Working with SQL and MongoDB (Atlas and Compass) and designing basic application flows and system connections for user-based applications.',
+      'Working with SQL/PL and MongoDB (Atlas and Compass) and designing basic application flows and system connections for user-based applications.',
   },
 ];
 
