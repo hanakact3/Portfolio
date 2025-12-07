@@ -32,8 +32,8 @@ export default function Contact() {
       <div className="contact-card">
         <aside className="contact-info">
           <h2>Let&apos;s get in touch</h2>
-          <p>City: Toronto, ON</p>
-          <p>Email: ana.castrot@example.com</p>
+          <p>City: Toronto, ON , CA</p>
+          <p>Email: ana.cast@example.com</p>
           <p>LinkedIn: linkedin.com/in/anaaCastro</p>
         </aside>
 

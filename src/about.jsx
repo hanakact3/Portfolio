@@ -26,6 +26,7 @@ export default function About() {
           My main focus is learning modern web development, databases and system design so I can
           contribute to real-world projects in the future.
         </p>
+        <br></br>
         <a href="/ResumeW.pdf" download className="about-resume">
           Download my Resume (PDF)
         </a>
