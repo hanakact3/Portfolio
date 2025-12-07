@@ -14,7 +14,7 @@ const projects = [
     id: 2,
     title: 'Phonebook GUI Application',
     img: '/phonebookJava.png',
-    alt: 'Phonebook Entry window',
+    alt: 'Phonebook Entry Window',
     description:
       'Desktop phonebook built in Java using JavaFX, with custom UI styling and input validation for managing contacts.',
   },
