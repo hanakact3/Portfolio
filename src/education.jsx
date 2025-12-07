@@ -18,7 +18,7 @@ export default function Education() {
       <section className="edu-item">
         <img
           src="/LogoCaa-1.png"
-          alt="Anglo Americano School, Bogotá"
+          alt="Anglo Americano School, Bogotá , Colombia"
           className="edu-photo"
         />
         <div className="edu-overlay">
