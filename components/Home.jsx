@@ -8,7 +8,7 @@ export default function Home() {
           <div>
             <h2>Welcome to Ana&apos;s Portfolio</h2>
             <p>
-              Shaping ideas into code, and code into possibilities.
+              Shaping ideas into code, and code into possibilities. 
             </p>
           </div>
         </div>
