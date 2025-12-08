@@ -11,7 +11,7 @@ export default function Education() {
         />
         <div className="edu-overlay">
           <h3>Centennial College, Toronto</h3>
-          <p>Software Engineering Technician – 3rd semester (2023 – Present)</p>
+          <p>Software Engineering Technology – 3rd semester (2023 – Present)</p>
         </div>
       </section>
 
